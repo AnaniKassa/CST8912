@@ -89,7 +89,7 @@
 4.	Enter the username and password that you entered during the virtual machine creation.
 5.	Select Connect.
 6.	Open Windows PowerShell on the server after you connect.
-7.	Enter nslookup <storage-account-name>.blob.core.windows.net. Replace <storage-account-name> with the name of the storage account you created in the previous steps. The following example shows the output of the command.
+7.	Enter nslookup. The following example shows the output of the command.
 ![alt text](h1-7.PNG)
 
 8.	Install Microsoft Azure Storage Explorer on the virtual machine.

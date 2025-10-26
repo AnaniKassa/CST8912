@@ -72,7 +72,6 @@
 3.	In the Security + networking section of the storage account, select Access keys.
 4.	Select Show, then select copy on the Connection string for key1.
 ![alt text](f1-4.PNG)
-DefaultEndpointsProtocol=https;AccountName=storage18912b;AccountKey=6qNFQtM2yPABPUOhM3qLF6Rtd8HlDZ/tCMm+l5QTFC7xj5SBkvu2SEb5shzrYYK5wPprF3IG02A9+ASt7s9S8g==;EndpointSuffix=core.windows.net
 
 ### Add a blob container
 1.	In the search box at the top of the portal, enter Storage account. Select Storage accounts in the search results.

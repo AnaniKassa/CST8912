@@ -117,3 +117,4 @@ Screenshot of the scheduling section of an alert processing rule
 18.	As you have time, review and run other queries.
 19.	Clean up the resources and document all the steps in the lab report
 ![alt text](6-19.PNG)
+
